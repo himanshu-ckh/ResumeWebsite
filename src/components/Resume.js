@@ -49,7 +49,14 @@ const skills = [
         "text": "#fff",
         "background": "#2c3e50"
       }
-    }}
+    }},
+    {type: "ML", level: 60, "color": {
+        "bar": "#2c3e50",
+        "title": {
+          "text": "#fff",
+          "background": "#2c3e50"
+        }
+      }},
 ];
 
 export default  class Resume extends Component {
