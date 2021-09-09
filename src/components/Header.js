@@ -8,7 +8,7 @@ export default class Header extends Component {
       <header id="home">
          <nav id="nav-wrap">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-          <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+          <a className="mobile-btn" href="/#" title="Hide navigation">Hide navigation</a>
             <ul id="nav" className="nav">
                <li className="current"><a className="smoothscroll" href="#home" style={{color:'#111', fontFamily:'sans-serif '}}>Home</a></li>
                <li><a className="smoothscroll" href="#about" style={{color:'#111', fontFamily:'sans-serif '}}>About</a></li>
