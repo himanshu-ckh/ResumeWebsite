@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently working as a Data Engineer at Wipro. Starting Fall 2022, I would like to pursue my Masters in Computer Science.  I want to become a successful expert in the field of Computer science by channelizing my technical knowledge and skills to ensure personal and professional growth.",
+    "aboutme":"I am currently working as a Data Engineer at Wipro. Starting Fall 2022, I would like to pursue my Masters in Computer Science. My Passion for computers started way back when I started learning coding in Logo language, what began as a fascination with trivial coding in eighth standard and video games has turned into a passion for exploring and designing new and efficient algorithms to solve clients' problems. I want to become a successful expert in the field of Computer science by channelizing my technical knowledge and skills to ensure personal and professional growth.",
     "address":"Basant House Maharaja Surajmal Nagar, Laxmangarh, Rajasthan, India, 332311",
     "website":"http://himanshu-choudhary.com/",
     "education":[

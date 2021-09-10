@@ -24,8 +24,6 @@
 <link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css">
 <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">
 <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
-
-<script src="%PUBLIC_URL%/js/modernizr.js"></script>
 <title>Resume</title>
   </head>
   <body>
@@ -52,6 +50,29 @@
     <script src="js/jquery.fittext.js"></script>
     <script src="js/magnific-popup.js"></script>
     <script src="js/init.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+  <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+  <script src="js/jquery.flexslider.js"></script>
+  <script src="js/waypoints.js"></script>
+  <script src="js/jquery.fittext.js"></script>
+  <script src="js/magnific-popup.js"></script>
+  <script src="js/init.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.4/typed.min.js"></script>
+  <script>
+     $(function(){
+        $(".element").typed({
+        strings: ["Big data developer...", "Data Engineer...", "Machine Learning Enthusiast...", "Full Stack Web Developer..."],
+        typeSpeed:20,
+        loop: true,
+        loopCount: false,
+        showCursor: false,
+        backDelay:1500,
+        startDelay:2000
+        });
+     });
+  </script>
 
   </body>
 </html>
