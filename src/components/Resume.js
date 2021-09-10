@@ -43,20 +43,35 @@ const skills = [
         "background": "#2c3e50"
       }
     }},
-  {type: "ReactJs", level: 70, "color": {
-      "bar": "#2c3e50",
-      "title": {
-        "text": "#fff",
-        "background": "#2c3e50"
-      }
-    }},
-    {type: "ML", level: 60, "color": {
+    {type: "ML", level: 50, "color": {
         "bar": "#2c3e50",
         "title": {
           "text": "#fff",
           "background": "#2c3e50"
         }
       }},
+  {type: "ReactJs", level: 60, "color": {
+      "bar": "#2c3e50",
+      "title": {
+        "text": "#fff",
+        "background": "#2c3e50"
+      }
+    }},
+    {type: "JavaScript", level: 70, "color": {
+        "bar": "#2c3e50",
+        "title": {
+          "text": "#fff",
+          "background": "#2c3e50"
+        }
+      }},
+      {type: "SQL", level: 85, "color": {
+          "bar": "#2c3e50",
+          "title": {
+            "text": "#fff",
+            "background": "#2c3e50"
+          }
+        }}
+
 ];
 
 export default  class Resume extends Component {
