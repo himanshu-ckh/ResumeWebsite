@@ -22,10 +22,17 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently working as a Data Engineer at Wipro. Starting Fall 2022, I would like to pursue my Masters in Computer Science. My Passion for computers started way back when I started learning coding in Logo language, what began as a fascination with trivial coding in eighth standard and video games has turned into a passion for exploring and designing new and efficient algorithms to solve clients' problems. I want to become a successful expert in the field of Computer science by channelizing my technical knowledge and skills to ensure personal and professional growth.",
+    "aboutme":"I am a masters students in Computer Science at Stony Brook University, New York. Before joining SBU, I was working as a Senior Data Engineer at NTT Data. I've worked on Big Data tech stack including but not limited to Hadoop, Spark, Scala, Hive, Pig.  I want to become a successful expert in the field of Computer science by channelizing my technical knowledge and skills to ensure personal and professional growth.",
     "address":"Basant House Maharaja Surajmal Nagar, Laxmangarh, Rajasthan, India, 332311",
     "website":"http://himanshu-choudhary.com/",
     "education":[
+      {
+        "UniversityName":"Stony Brook University, New York",
+        "specialization":"Computer Science",
+        "MonthOfPassing":"August",
+        "YearOfPassing":"2022",
+        "Achievements":"3.8 GPA"
+      },
       {
         "UniversityName":"Vellore Institute of Technology, Vellore",
         "specialization":"Computer Science",
@@ -43,10 +50,19 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"NTT Data",
+        "specialization":"Senior Data Enginner",
+        "MonthOfLeaving":"October",
+        "YearOfLeaving":"2021 - Present",
+        "Achievements":"Developed a framework to migrate an in-house Hadoop cluster to AWS using AWS Elastic Kubernetes service, Redshift, and AWS S3.",
+        "Achievements2":"Moved data from AWS S3 to Redshift using Spark and Python Scripts.",
+        "Achievements3":"Developed Oozie and crontab jobs for scheduling the independent Spark Jobs."
+      },
+      {
         "CompanyName":"Wipro Limited",
         "specialization":"Data Enginner",
         "MonthOfLeaving":"January",
-        "YearOfLeaving":"2019 - Present",
+        "YearOfLeaving":"2019 - 2021",
         "Achievements":"Developed an end-to-end Supply chain for Soybeans and Palm fruit, using Apache Spark, Scala, and Hadoop, to give a better overview to the customer that the products are not grown in a deforestation area.",
         "Achievements2":"Responsible for data engineering functions including, but not limited to: data extract, transformation, loading, integration in support of enterprise data infrastructures – data warehouse, and master data management.",
         "Achievements3":"Reduced the latency of Spark Jobs by tweaking the spark configuration and implementing delta imports with the hash functions."
