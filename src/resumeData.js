@@ -2,13 +2,13 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Himanshu Choudhary",
     "role": "Data Engineer",
-    "linkedinId":"https://www.linkedin.com/in/himanshu-chaudhary-9758bb9a/",
+    "linkedinId":"https://www.linkedin.com/in/hcgogo/",
     "skypeid": "Your skypeid",
     "roleDescription": " I like dabbling in various parts of Data Enginnering activites and like to learn about new technologies, work on front end development or simply play video games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/himanshu-chaudhary-9758bb9a/",
+          "url":"https://www.linkedin.com/in/hcgogo/",
           "className":"fa fa-linkedin"
         },
         {
