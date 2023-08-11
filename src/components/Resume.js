@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
 import SkillBar from 'react-skillbars';
 const skills = [
+  {type: "Java", level: 90, "color": {
+    "bar": "#2c3e50",
+    "title": {
+      "text": "#fff",
+      "background": "#2c3e50"
+    }
+  }},
   {type: "Spark", level: 90, "color": {
       "bar": "#2c3e50",
       "title": {
@@ -123,7 +130,6 @@ export default  class Resume extends Component {
                           <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
                           {item.Achievements}
-
                           </p>
                           <p>
                           {item.Achievements2}

@@ -22,16 +22,16 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a masters students in Computer Science at Stony Brook University, New York. Before joining SBU, I was working as a Senior Data Engineer at NTT Data. I've worked on Big Data tech stack including but not limited to Hadoop, Spark, Scala, Hive, Pig.  I want to become a successful expert in the field of Computer science by channelizing my technical knowledge and skills to ensure personal and professional growth.",
-    "address":"Basant House Maharaja Surajmal Nagar, Laxmangarh, Rajasthan, India, 332311",
+    "aboutme":"I am a masters students in Computer Science at Stony Brook University, New York. I recently interned at Apple Inc in Ad Platforms team. Before joining SBU, I was working as a Senior Data Engineer at NTT Data. I've worked on Big Data tech stack including but not limited to Hadoop, Spark, Scala, Hive, Pig.  I want to become a successful expert in the field of Computer science by channelizing my technical knowledge and skills to ensure personal and professional growth.",
+    "address":"700 Health Sciences Drive, Stony Brook University, New York",
     "website":"http://himanshu-choudhary.com/",
     "education":[
       {
         "UniversityName":"Stony Brook University, New York",
         "specialization":"Computer Science",
-        "MonthOfPassing":"August",
-        "YearOfPassing":"2022",
-        "Achievements":"3.8 GPA"
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2024",
+        "Achievements":"3.9 GPA"
       },
       {
         "UniversityName":"Vellore Institute of Technology, Vellore",
@@ -50,13 +50,22 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Apple Inc.",
+        "specialization":"Software Engineer Intern",
+        "MonthOfLeaving":"August",
+        "YearOfLeaving":"2023 - August 2023",
+        "Achievements":"Created a latency metrics to identify and resolve Kafka lag.",
+        "Achievements2":"Developed a single pane view dashboard for an entire Ad Serving application using Spark, Kafka and Grafana."
+      },
+      {
         "CompanyName":"NTT Data",
         "specialization":"Senior Data Enginner",
         "MonthOfLeaving":"October",
-        "YearOfLeaving":"2021 - Present",
-        "Achievements":"Developed a framework to migrate an in-house Hadoop cluster to AWS using AWS Elastic Kubernetes service, Redshift, and AWS S3.",
+        "YearOfLeaving":"2021 - August 2022",
+        "Achievements":"Migrated ser an in-house Hadoop cluster to AWS using AWS Elastic Kubernetes service, Redshift, and AWS S3.",
         "Achievements2":"Moved data from AWS S3 to Redshift using Spark and Python Scripts.",
-        "Achievements3":"Developed Oozie and crontab jobs for scheduling the independent Spark Jobs."
+        "Achievements3":"Migrated Apache PIG script to Spark Scripts.",
+        "Achievements4":"Developed Oozie and crontab jobs for scheduling the independent Spark Jobs.",
       },
       {
         "CompanyName":"Wipro Limited",
@@ -78,6 +87,9 @@ let resumeData = {
     ],
     "skillsDescription":"",
     "skills":[
+      {
+        "skillname":"Java"
+      },
       {
         "skillname":"Spark"
       },
