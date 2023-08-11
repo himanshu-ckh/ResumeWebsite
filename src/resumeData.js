@@ -62,7 +62,7 @@ let resumeData = {
         "specialization":"Senior Data Enginner",
         "MonthOfLeaving":"October",
         "YearOfLeaving":"2021 - August 2022",
-        "Achievements":"Migrated ser an in-house Hadoop cluster to AWS using AWS Elastic Kubernetes service, Redshift, and AWS S3.",
+        "Achievements":"Migrated an in-house Hadoop cluster to AWS using AWS Elastic Kubernetes service, Redshift, and AWS S3.",
         "Achievements2":"Moved data from AWS S3 to Redshift using Spark and Python Scripts.",
         "Achievements3":"Migrated Apache PIG script to Spark Scripts.",
         "Achievements4":"Developed Oozie and crontab jobs for scheduling the independent Spark Jobs.",
